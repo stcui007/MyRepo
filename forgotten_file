@@ -1,1 +1,2 @@
 Test git commit -ammend
+git checkout master (move HEAD pointer back to master)
